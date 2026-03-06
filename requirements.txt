@@ -1,0 +1,8 @@
+requests==2.32.5
+beautifulsoup4==4.14.2
+lxml==6.0.2
+nltk
+numpy==2.4.1
+pandas==3.0.0
+openpyxl==3.1.5
+tqdm
